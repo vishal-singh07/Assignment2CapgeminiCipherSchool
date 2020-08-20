@@ -1,0 +1,3 @@
+Differences between arrays and stack are as follows:
+1) In stack the element can be entered and removed only from top because it follows LIFO policy, whereas in arrays elements can be inserted or removed from any point in the array.
+2) In a stack only the topmost element's value can be viewed at a time whereas in arrays there is no such bound.

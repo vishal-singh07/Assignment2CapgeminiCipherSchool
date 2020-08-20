@@ -1,0 +1,1 @@
+Data Structure is collection of data values the relationships among them, and the functions or operations that can be applied to the data.. It is a data organization, management, and storage format that enables efficient access and modification .

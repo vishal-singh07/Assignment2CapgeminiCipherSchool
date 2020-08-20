@@ -1,0 +1,1 @@
+Yes, Binary search is possible on the linked list if the list is sorted and you know the count of elements in list. 

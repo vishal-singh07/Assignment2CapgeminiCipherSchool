@@ -1,0 +1,6 @@
+Different types of tree traversal are as follows :
+1)Inorder Traversal : Inorder Traversal is the one the most used variant of DFS(Depth First Search) Traversal of the tree.In this method the left subtree of a node is visited first, then the node is visited and then the right subtree is visited.These steps are repeated recursively until all the nodes are visited.
+2)Preorder Traversal : Preorder Traversal is another variant of DFS. In this method the node is visited first, then the left subtree of the node is visited and then the right subtree of the node is visited.These steps are repeated recursively until all the nodes are visited.
+3) Postorder Traversal: It is opposite of preorder. In this method the left subtree of node is visited first, then the right subtree of the node is visited and then  node is visited.These steps are repeated recursively until all the nodes are visited.
+4) Level Order Traversal :  Level order traversal follows BFS(Breadth-First Search) to visit/modify every node of the tree. In this method  we will visit all the nodes present at the same level one-by-one from left to right and then move to the next level to visit all the nodes of that level.
+

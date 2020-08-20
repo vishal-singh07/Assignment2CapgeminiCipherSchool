@@ -1,0 +1,18 @@
+Some of the data structures and its applications are as follows:
+1. Arrays : Arrays are the simplest data structures that stores items of the same data type in a continuous memory location.
+Its application are as follows:
+	i)Arrangement of leader-board of a game can be done simply through arrays to store the score and arrange them in descending order to clearly make out the rank 		of each player in the game.
+	ii)A simple question Paper is an array of numbered questions with each of them assigned to some marks.
+2. Linked List : A linked list is a sequence data structure, which connects elements, called nodes, through links.
+Its applications are as follows :
+	i)Web pages can be accessed using the previous and the next URL links which are linked using linked list.
+	ii)The music players also use the same technique to switch between music.
+3. Stacks : A stack is a data structure which uses LIFO order.
+Its applications are as follows :
+	i)Converting infix to postfix expressions.
+	ii)Undo operation is also carried out through stacks.
+4. Queue : A queue is a data structure which uses FIFO order.
+Its applications are as follows :
+	i)Operating System uses queue for job scheduling.
+	ii)To handle congestion in networking queue can be used.
+	
